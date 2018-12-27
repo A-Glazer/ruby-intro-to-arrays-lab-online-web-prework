@@ -18,5 +18,5 @@ end
 
 def last_element(chart)
   chart = ["Welcome to New York", "item2", "Style"]
-  return chart[2]
+  return chart[-1]
 end
