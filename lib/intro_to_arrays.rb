@@ -10,3 +10,8 @@ def first_element(chart)
   chart = ["Welcome to New York", "item2"]
   return chart[0]
 end
+
+def third_element(chart)
+  chart = ["Welcome to New York", "item2", ]
+  return chart[2]
+end
