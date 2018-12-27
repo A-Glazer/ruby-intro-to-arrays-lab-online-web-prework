@@ -23,5 +23,5 @@ end
 
 def first_element_with_array_methods(chart)
    chart = ["Welcome to New York", "item2", "Style", "Out of The Woods"]
-  
+  return chart.index
 end
