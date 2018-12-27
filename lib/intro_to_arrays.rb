@@ -31,4 +31,4 @@ def last_element_with_array_methods(chart)
   return chart[-1]
 end
 
-def length_of
+def length_of_array
