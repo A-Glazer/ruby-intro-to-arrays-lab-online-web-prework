@@ -20,3 +20,8 @@ def last_element(chart)
   chart = ["Welcome to New York", "item2", "Style", "Out of The Woods"]
   return chart[-1]
 end
+
+def first_element_with_array_methods(chart)
+   chart = ["Welcome to New York", "item2", "Style", "Out of The Woods"]
+  
+end
