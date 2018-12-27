@@ -8,5 +8,5 @@ end
 
 def first_element
   chart = ["item1", "item2"]
-  chart[0]
+  return chart[0]
 end
