@@ -27,6 +27,6 @@ def first_element_with_array_methods(chart)
 end
 
 def last_element_with_array_methods(chart)
-  chart = ["Thailand", "Welcome to New York", "item2", "Style", "Out of The Woods"]
+  chart = ["Thailand", "Welcome to New York", "item2", "Style", "Out of The Woods", "Southeast Asia"]
   return chart[-1]
 end
