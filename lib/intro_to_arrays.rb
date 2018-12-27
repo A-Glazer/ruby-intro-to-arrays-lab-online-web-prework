@@ -7,6 +7,6 @@ def array_with_two_elements
 end
 
 def first_element(first)
-  chart = ["item1", "item2"]
+  chart = ["Welcome to New York", "item2"]
   return first == chart[0]
 end
