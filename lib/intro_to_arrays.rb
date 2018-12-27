@@ -31,4 +31,7 @@ def last_element_with_array_methods(chart)
   return chart[-1]
 end
 
-def length_of_array
+def length_of_array(chart)
+  chart = ["Thailand", "Welcome to New York", "item2", "Style", "Out of The Woods", "Myanmar"]
+  return chart[-1]
+end
