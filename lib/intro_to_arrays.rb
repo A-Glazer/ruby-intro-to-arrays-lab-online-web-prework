@@ -12,6 +12,6 @@ def first_element(chart)
 end
 
 def third_element(chart)
-  chart = ["Welcome to New York", "item2", ]
+  chart = ["Welcome to New York", "item2", "item3"]
   return chart[2]
 end
