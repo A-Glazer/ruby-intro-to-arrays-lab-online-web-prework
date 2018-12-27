@@ -6,7 +6,7 @@ def array_with_two_elements
   return ["item1", "item2"]
 end
 
-def first_element(first)
+def my_first_element(first)
   chart = ["Welcome to New York", "item2"]
   return first == chart[0]
 end
